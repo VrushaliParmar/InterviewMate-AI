@@ -1,6 +1,5 @@
 
 <!-- ===================== HERO SECTION ===================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:312E81,100:0891B2&height=220&section=header&text=InterviewMate%20AI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Practice%20Smarter.%20Interview%20Better.&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
